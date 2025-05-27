@@ -1,0 +1,3 @@
+Model,Accuracy,Macro-F1
+Logistic Regression + TF-IDF + CatFeatures,0.9672544080604534,0.6904844786627234
+CatBoost + Text + CatFeatures,0.9521410579345088,0.5064296022008689
