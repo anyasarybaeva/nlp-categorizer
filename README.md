@@ -44,10 +44,3 @@
 - [TREC: Text Retrieval Conference](https://trec.nist.gov/)
 - [RuSentiment: Russian Sentiment Dataset](https://github.com/text-machine-lab/RuSentiment)
 
----
-
-## 🚀 Запуск проекта
-
-1. Установите зависимости:
-   ```bash
-   pip install -r requirements.txt
